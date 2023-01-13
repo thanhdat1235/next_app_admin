@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans:wght@400;500;600;700;800;900&display=swap");
+
+body {
+  // font-family: "Dancing Script", cursive;
+  font-family: "Noto Sans", sans-serif;
+  //   font-family: "Inter", sans-serif;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.banner {
+  background-image: url("/img/female_student_writing.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
